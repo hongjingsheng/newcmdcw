@@ -1,0 +1,1331 @@
+[ 2016-09-12T15:42:31+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\WWW\tp\app\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\WWW\tp\app\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T15:42:59+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T15:43:10+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-09-12T15:45:10+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-12T15:45:11+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T15:45:33+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-12T15:45:34+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-12T15:45:34+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T15:46:16+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T15:49:06+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-12T15:49:07+08:00 ] 0.0.0.0 /tp/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-12T16:00:49+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002942s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025627s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002267s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002450s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002027s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009674s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002805s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002955s ]
+
+[ 2016-09-12T16:05:51+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003114s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026259s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002829s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003089s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002572s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012414s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004716s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004946s ]
+
+[ 2016-09-12T16:12:13+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004946s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033433s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004023s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003539s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016214s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004855s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005112s ]
+
+[ 2016-09-12T16:13:35+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004038s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025216s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003284s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003923s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003330s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014583s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003730s ]
+
+[ 2016-09-12T16:15:21+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004332s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036064s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003858s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002798s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003144s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012864s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003499s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003660s ]
+
+[ 2016-09-12T16:15:31+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005024s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037015s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002257s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002333s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002796s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011563s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004457s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004693s ]
+
+[ 2016-09-12T16:15:33+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003172s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025815s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002309s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002296s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002079s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009740s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002929s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003081s ]
+
+[ 2016-09-12T16:15:34+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002993s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023327s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002238s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002290s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002042s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009468s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002951s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003102s ]
+
+[ 2016-09-12T16:24:14+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004068s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:42+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003165s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:44+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003359s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:52+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002364s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:53+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:54+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:54+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003034s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:54+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002925s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:26:59+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002604s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016943s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017117s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001934s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001947s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001753s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008049s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003017s ]
+
+[ 2016-09-12T16:28:11+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002496s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025136s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003316s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002868s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003134s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013551s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004758s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004982s ]
+
+[ 2016-09-12T16:28:12+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002394s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020197s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001367s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001165s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001325s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005731s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002061s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2016-09-12T16:28:30+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004312s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036270s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008012s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003745s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003180s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019541s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004595s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004830s ]
+
+[ 2016-09-12T16:30:58+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002950s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025693s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002247s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002276s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009753s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002846s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002998s ]
+
+[ 2016-09-12T16:30:59+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003368s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023762s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004255s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002007s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002347s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011888s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002881s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003033s ]
+
+[ 2016-09-12T16:31:22+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002942s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:33:24+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003877s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031121s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002959s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002919s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002652s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.008563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017705s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003833s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-09-12T16:35:17+08:00 ] 59.50.48.14 /new/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002944s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024061s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002305s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002462s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003677s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012975s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002882s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003039s ]
+
+[ 2016-09-12T16:35:36+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002689s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002843s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002464s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:35:58+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003218s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002864s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:36:09+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002051s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002870s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:36:10+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002393s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002670s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004530s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:36:10+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001812s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:36:10+08:00 ] 59.50.48.14 /new/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002991s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004197s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:36:18+08:00 ] 59.50.48.14 /new/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002723s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002999s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003179s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031417s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002306s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002323s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003127s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004879s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013246s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005477s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005746s ]
+
+[ 2016-09-12T16:36:23+08:00 ] 59.50.48.14 /new/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002267s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002495s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003092s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025293s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003582s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002582s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002074s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011276s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004120s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004366s ]
+
+[ 2016-09-12T16:36:27+08:00 ] 59.50.48.14 /new/index.php/Index/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002558s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002776s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002876s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024742s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002464s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002320s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002047s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010067s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002903s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003067s ]
+
+[ 2016-09-12T16:37:09+08:00 ] 59.50.48.14 /new/index.php/Index/index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018461s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002276s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002714s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002038s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009400s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002174s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002292s ]
+
+[ 2016-09-12T16:37:17+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002938s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004277s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029406s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004543s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002611s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002106s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012274s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002863s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003021s ]
+
+[ 2016-09-12T16:37:46+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003372s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003623s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004831s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032665s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002346s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002583s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002434s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010314s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002939s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003094s ]
+
+[ 2016-09-12T16:37:49+08:00 ] 59.50.48.14 /new/index.php/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005867s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005268s ]
+
+[ 2016-09-12T16:38:06+08:00 ] 59.50.48.14 /new/index.php/Index/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002136s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018070s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001738s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001466s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001546s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006929s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002135s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002252s ]
+
+[ 2016-09-12T16:38:13+08:00 ] 59.50.48.14 /new/index.php/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004260s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004300s ]
+
+[ 2016-09-12T16:38:18+08:00 ] 59.50.48.14 /new/index.php/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001584s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+
+[ 2016-09-12T16:39:15+08:00 ] 59.50.48.14 /new/index.php/Admin/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002925s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003270s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004757s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:39:21+08:00 ] 59.50.48.14 /new/index.php/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002767s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003040s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005092s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:39:38+08:00 ] 59.50.48.14 /new/index.php/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003328s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003681s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005514s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:39:40+08:00 ] 59.50.48.14 /new/index.php/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003081s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003353s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004609s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:39:41+08:00 ] 59.50.48.14 /new/index.php/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002590s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002892s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002993s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:40:08+08:00 ] 59.50.48.14 /new/index.php/Admin/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002286s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002470s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002462s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:40:09+08:00 ] 59.50.48.14 /new/index.php/Admin/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002254s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002466s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003761s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:41:25+08:00 ] 59.50.48.14 /new/index.php/Admin/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004152s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004411s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004212s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:41:31+08:00 ] 59.50.48.14 /new/index.php/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003095s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003294s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002715s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:41:33+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003348s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003564s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002833s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:41:35+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003421s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003637s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002872s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:41:36+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005694s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006028s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004641s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:41:52+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003635s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002912s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024875s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002320s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002948s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004209s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014485s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005086s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005433s ]
+
+[ 2016-09-12T16:42:05+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003394s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003609s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002853s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:42:29+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004227s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004505s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004087s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:42:30+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002679s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002614s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:43:20+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003811s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004018s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002897s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:43:22+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004878s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005184s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004305s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:43:29+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005723s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006072s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004419s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025691s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002292s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002966s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002214s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010411s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002836s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002990s ]
+
+[ 2016-09-12T16:45:41+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002392s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002549s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002010s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015654s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001386s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001446s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001254s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006461s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001934s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002040s ]
+
+[ 2016-09-12T16:46:33+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003418s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003632s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002940s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024784s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002317s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002326s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002094s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009697s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002834s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002990s ]
+
+[ 2016-09-12T16:46:34+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005937s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006398s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005153s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027091s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002307s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002303s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002233s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009773s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003972s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006113s ]
+
+[ 2016-09-12T16:46:50+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005892s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003837s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027958s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003375s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003834s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003748s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015360s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004108s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004365s ]
+
+[ 2016-09-12T16:47:05+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002862s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003134s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002471s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:47:06+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004252s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004504s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002412s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:47:07+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004025s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003348s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:47:07+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003932s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004200s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003238s ]
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T16:48:26+08:00 ] 59.50.48.14 /new/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002892s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003100s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002917s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024037s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002289s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002311s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002050s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009540s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002843s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002999s ]
+
+[ 2016-09-12T16:48:34+08:00 ] 59.50.48.14 /new/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001814s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002021s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032008s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002276s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002455s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003606s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012160s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002865s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003020s ]
+
+[ 2016-09-12T16:48:45+08:00 ] 59.50.48.14 /new/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003383s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003591s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003145s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026847s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002298s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002356s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002888s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010400s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003709s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003917s ]
+
+[ 2016-09-12T16:48:51+08:00 ] 59.50.48.14 /new/index.php/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003647s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003886s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004501s ]
+
+[ 2016-09-12T16:49:01+08:00 ] 59.50.48.14 /new/index.php/Admin/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003456s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002948s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:13+08:00 ] 59.50.48.14 /new/index.php/Admin/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003098s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003298s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002962s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:20+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/add/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004862s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005161s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004242s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:24+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005184s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004900s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:43+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003491s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003739s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004176s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:44+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003440s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003679s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002850s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:45+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003552s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002864s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:49:46+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009585s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009912s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003749s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:50:16+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003346s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003553s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002903s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:50:17+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003194s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003381s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002441s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:50:18+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002357s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002515s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-09-12T16:50:21+08:00 ] 59.50.48.14 /new/index.php/DEFAULT_GROUP/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003353s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003569s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003237s ]
+ERR: 无法加载模块:DEFAULT_GROUP
+
+[ 2016-09-12T16:50:25+08:00 ] 59.50.48.14 /new/index.php/Index/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004587s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003911s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018221s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001637s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001394s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002401s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009130s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002080s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002198s ]
+
+[ 2016-09-12T16:50:30+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003566s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002881s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023945s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002595s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002497s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010390s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003143s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003298s ]
+
+[ 2016-09-12T16:50:39+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004197s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002892s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030172s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002695s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002463s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003274s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011653s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002891s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003045s ]
+
+[ 2016-09-12T16:50:40+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003386s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003611s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002884s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025712s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002601s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006550s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002537s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014729s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002909s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003066s ]
+
+[ 2016-09-12T16:59:07+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:01:00+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:01:03+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:01:04+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:01:08+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:01:45+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:01:46+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:01:47+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:01:53+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:01:59+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:02:06+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:02:17+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:02:18+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:02:57+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:24+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:25+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:26+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:26+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:26+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:26+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:26+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:27+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:03:27+08:00 ] 59.50.48.14 /new/index.php/Index/index/2
+ERR: 无法加载模块:Index
+
+[ 2016-09-12T17:05:39+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:05:43+08:00 ] 59.50.48.14 /new/index.php/Home/index/2
+ERR: 无法加载模块:index
+
+[ 2016-09-12T17:06:41+08:00 ] 59.50.48.14 /new/index.php/Home/Inde/2
+ERR: 无法加载模块:Inde
+
+[ 2016-09-12T17:06:45+08:00 ] 59.50.48.14 /new/index.php/Home/Index/2
+ERR: 非法操作:2
+
+[ 2016-09-12T17:06:51+08:00 ] 59.50.48.14 /new/index.php/Home/Index/index
+ERR: 模板不存在[D:\wwwroot\chengmdcw\wwwroot\new/app/Modules/Home/Tpl/Index/index.html]
+
+[ 2016-09-12T17:06:56+08:00 ] 59.50.48.14 /new/index.php/Home/dd/index
+ERR: 无法加载模块:dd
+
+[ 2016-09-12T17:07:02+08:00 ] 59.50.48.14 /new/index.php/Home/Index/index
+ERR: 模板不存在[D:\wwwroot\chengmdcw\wwwroot\new/app/Modules/Home/Tpl/Index/index.html]
+
+[ 2016-09-12T17:08:50+08:00 ] 59.50.48.14 /new/index.php/Admin/Index/index
+ERR: 模板不存在[D:\wwwroot\chengmdcw\wwwroot\new/app/Modules/Admin/Tpl/Index/index.html]
+
