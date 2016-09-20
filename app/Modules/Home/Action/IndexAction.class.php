@@ -1,10 +1,12 @@
 <?php
-// 本类由系统自动生成，仅供测试用途
+
 class IndexAction extends Action {
     public function index(){
-//        require APP_PATH.'Modules/Home/ORG/Util/Image.class.php';
-
+        //手动导入类库
+        import("Models.Service.Test",APP_PATH,".class.php");
+        
         $this->assign('name','home');
+        new Test();
         $this->display();
     }
 }

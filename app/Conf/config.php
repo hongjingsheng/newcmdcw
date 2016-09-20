@@ -20,5 +20,6 @@ return array(
     'TMPL_R_DELIM'=>'}>',
 
     'SHOW_PAGE_TRACE' => true,
+    'APP_AUTOLOAD_PATH' => APP_PATH.'Models/Service/,'.APP_PATH.'Models/Gateway/,'.APP_PATH.'Models/Cache/,'.APP_PATH.'Models/Infra/,',
 );
 ?>

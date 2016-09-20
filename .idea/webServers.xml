@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76f5f3cd-feb2-4cb7-b430-b7891c69fa69" name="chengmdcw.w106.cndns5.com" url="http://chengmdcw.w106.cndns5.com">
+        <fileTransfer host="chengmdcw.w106.cndns5.com" port="21" rootFolder="/chengmdcw">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
